@@ -14,7 +14,7 @@ Once installed, you can launch Ominous with:
 ```bash
 python ominous.py
 ```
-
+![My Image](mmsstv.jpg)
 ---
 
 ## 📖 Usage
